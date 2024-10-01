@@ -2,7 +2,7 @@ html{margin: 0px;}
 
 h1{margin: 0px;}
 
-body{background-color: darkturquoise;
+body{background-color: white;
     font-family: cursive, arial, Cambria, Cochin, Georgia, Times, 'Times New Roman' ;
 margin: 0px;}
 
@@ -15,7 +15,7 @@ margin: 0px;}
 
 ul{margin: 0px}
 
-body > header{background-color: brown;
+body > header{background-color: red;
 color: white;
 display: flex;
 height: 10vh;
@@ -55,7 +55,7 @@ h2 {
     text-align: center;
 }
 
-body > footer{background-color: white;
+body > footer{background-color: blue;
 display: flex;}
 
 img {
